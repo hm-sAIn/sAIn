@@ -1,4 +1,4 @@
-<pre>
+<p>
 Welcome to the sAIn project webpage!
 
 Empowering face-to-face conversations between people who communicate through American Sign Language (ASL) and those who speak English by harnessing the power of AI-driven machine translation technology we want everyone to feel included.
@@ -62,5 +62,5 @@ The user sees himself on his device and gets incoming audio as text on his displ
 ## Our vision
 
 Enabling sAIn to overlay other applications is our next step, extending its application possibilities and increasing its generated value.
-</pre>
+</p>
  
