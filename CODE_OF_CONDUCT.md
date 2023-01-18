@@ -1,5 +1,25 @@
 # Contributor Covenant Code of Conduct
 
+## Our values:
+
+### Transparency 
+We face fair competition and at the same time enable every user to inform himself about how our application works and thus to weigh the benefits and risks for himself, but also to praise and criticize. 
+We are transparent, act honestly and adhere to applicable social compliance regulations towards all stakeholders.
+
+### Humanity 
+Most AI systems connect human and machine. 
+We connect humanity and machine and make our best possible contribution to a harmonious society.
+
+### Integration and inclusion
+It is important to us that every human feels included and valued. 
+With our approach, we therefore want to break down the communication barrier between sign language speakers and non-sign language speakers as much as possible. 
+And not only that. With our paradigm of an iterative and continuous improvement process, we want to ensure constant added value in close contact with our users.
+
+### Inspiration 
+Sustainability and AI are two of the most highly topical and discussed issues of our time. There are quite a few dangers lurking and the uncertainty towards the upcoming future can be felt. 
+But with new technology comes a lot of opportunities! By setting a good example, we want to be an inspiration for more great, social and sustainable projects.
+
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -11,6 +31,7 @@ and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
+
 
 ## Our Standards
 
@@ -36,6 +57,7 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
@@ -48,6 +70,7 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
+
 ## Scope
 
 This Code of Conduct applies within all community spaces, and also applies when
@@ -55,6 +78,7 @@ an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
+
 
 ## Enforcement
 
@@ -65,6 +89,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
+
 
 ## Enforcement Guidelines
 
@@ -111,6 +136,7 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
+
 
 ## Attribution
 
