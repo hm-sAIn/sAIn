@@ -5,7 +5,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - index..md
+  - index.md
   - README.md
   - ML.md
   - COPYING.md
