@@ -4,6 +4,14 @@ Empowering face-to-face conversations between people who communicate through Ame
 
 
 
+## MENU
+
+### *[Code of Conduct](CODE_OF_CONDUCT.md)
+### *[Privacy Notice](PRIVACY_NOTICE.md)
+### *[Machine Learning Models](ML.md)
+
+
+
 ## ANYTIME, ANYWHERE:
 Providing 24/7 access to fast, affordable ASL translation, our Application is ideal for a broad array of setting.
 
@@ -47,8 +55,6 @@ The areas of application are diverse. sAIn generates added value, whether in dai
 ## How it works
 
 The user sees himself on his device and gets incoming audio as text on his display. Recognized sign language gestures are translated and displayed to the signing person in text form.
-
-Check out our Code Of Conduct [here](CODE_OF_CONDUCT.md)
 
 
 
