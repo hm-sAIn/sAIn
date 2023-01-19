@@ -9,9 +9,12 @@ Empowering face-to-face conversations between people who communicate through Ame
 ###### > [Code of Conduct](CODE_OF_CONDUCT.md)
 ###### > [Privacy Notice](PRIVACY_NOTICE.md)
 ###### > [Machine Learning Models](ML.md)
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ###### ANYTIME, ANYWHERE:
 Providing 24/7 access to fast, affordable ASL translation, our Application is ideal for a broad array of setting.
 
