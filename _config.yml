@@ -1,6 +1,6 @@
 plugins:
   - jekyll-relative-links
-remote_theme: minima
+remote_theme: benbalter/retlab
 relative_links:
   enabled: true
   collections: true
