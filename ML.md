@@ -7,7 +7,8 @@
 # ML-Models
 
 sAIn uses several extern and in-house models to accomplish its intended functionality:
-<pre></pre>
+<pre>
+</pre>
 - Checkout the Model Card(s) for MediaPipe, our chosen model for body pose and hand gesture detection, here. (TODO)
 - Checkout the Model Card for whisper, our chosen model for Speech-to-Text conversion, here. (TODO)
 <pre>
