@@ -1,3 +1,9 @@
+###### MENU
+
+###### > [Code of Conduct](CODE_OF_CONDUCT.md)
+###### > [Privacy Notice](PRIVACY_NOTICE.md)
+###### > [Machine Learning Models](ML.md)
+
 # Contributor Covenant Code of Conduct
 
 ## Our values:
