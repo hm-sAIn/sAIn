@@ -4,29 +4,29 @@ Empowering face-to-face conversations between people who communicate through Ame
 
 
 
-## MENU
+###### MENU
 
-### *[Code of Conduct](CODE_OF_CONDUCT.md)
-### *[Privacy Notice](PRIVACY_NOTICE.md)
-### *[Machine Learning Models](ML.md)
+###### > [Code of Conduct](CODE_OF_CONDUCT.md)
+###### > [Privacy Notice](PRIVACY_NOTICE.md)
+###### > [Machine Learning Models](ML.md)
 
 
 
-## ANYTIME, ANYWHERE:
+###### ANYTIME, ANYWHERE:
 Providing 24/7 access to fast, affordable ASL translation, our Application is ideal for a broad array of setting.
 
-## PRIVATE AND SECURE:
+###### PRIVATE AND SECURE:
 Conversations are kept private with robust security features, including on-device processing.
 
-## EASY TO USE:
+###### EASY TO USE:
 Frustration-free setup means getting started is simple, intuitive, and requires no user training or specialized IT infrastructure.
 
-## EXCEPTIONAL VALUE:
+###### EXCEPTIONAL VALUE:
 Available open-source, our Application is the affordable alternative to onsite interpreters and video remote interpreting services.
 
 
 
-## Motivational background
+#### Motivational background
 
 A communication barrier is created between signers and non-signers in everyday life and in audio media. This results in severely limited integration and inclusion opportunities to the disadvantage of the hearing impaired side. That is 466 000 000 people worldwide!
 95 % of them have hearing parents and grow up in a hearing family and circle of friends. But only very few of them make sign language their own. Why should they?
@@ -39,7 +39,7 @@ Both parties are confronted with a very upleasant problem for which only meager 
 
 
 
-## What we offer
+#### What we offer
 
 sAIn breaks down these barriers and promotes integration and inclusion of the hearing impaired by providing a communication interface tailored to them. 
 
@@ -52,13 +52,13 @@ The areas of application are diverse. sAIn generates added value, whether in dai
 
 
 
-## How it works
+#### How it works
 
 The user sees himself on his device and gets incoming audio as text on his display. Recognized sign language gestures are translated and displayed to the signing person in text form.
 
 
 
-## Our vision
+#### Our vision
 
 Enabling sAIn to overlay other applications is our next step, extending its application possibilities and increasing its generated value.
  
