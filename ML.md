@@ -48,8 +48,9 @@ Primary intended users: People with impaired hearing and speaking.
 &nbsp;
 ##### Factors
 Due to using MediaPipe for pose detection, the input format and most of its related factors like groups, instruments and environments are abstracted away from the neuronal network. This approach enables the Neuronal Network to be free from biases relating to these factors. However, in order for MediaPipe to work properly, video data that is being fed into the model needs to meet a certain quality standard, such as appropriate lighting and positioning of the camera. Thus, gestures signed in to the video feed need to be as clear as possible, in order to be detected properly.
-&nbsp;
-&nbsp;
+\
+\
+\
 Evaluation Factors: Problems arising from factors related to video input that might lead to biases in the usage of the model obviously already are eliminated by abstraction into body pose and key point data. For ensuring the necessary quality standard is met, please checkout these instructions (TODO), explaining what exactly to look for in order to maximize model accuracy.
 &nbsp;
 &nbsp;
