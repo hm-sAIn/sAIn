@@ -4,7 +4,7 @@
 ###### > [Privacy Notice](PRIVACY_NOTICE.md)
 ###### > [Machine Learning Models](ML.md)
 
-#### ML-Models
+# ML-Models
 
 sAIn uses several extern and in-house models to accomplish its intended functionality:
 
