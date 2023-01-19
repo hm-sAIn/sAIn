@@ -4,27 +4,44 @@
 ###### > [Machine Learning Models](ML.md)
 ###### > [HOME](index.md)
 
+<pre>
+</pre>
+
 # Contributor Covenant Code of Conduct
 
-## Our values:
+<pre>
+</pre>
 
+## Our values:
 ### Transparency 
 We face fair competition and at the same time enable every user to inform himself about how our application works and thus to weigh the benefits and risks for himself, but also to praise and criticize. 
 We are transparent, act honestly and adhere to applicable social compliance regulations towards all stakeholders.
 
+
+<pre>
+</pre>
+
 ### Humanity 
 Most AI systems connect human and machine. 
 We connect humanity and machine and make our best possible contribution to a harmonious society.
+
+<pre>
+</pre>
 
 ### Integration and inclusion
 It is important to us that every human feels included and valued. 
 With our approach, we therefore want to break down the communication barrier between sign language speakers and non-sign language speakers as much as possible. 
 And not only that. With our paradigm of an iterative and continuous improvement process, we want to ensure constant added value in close contact with our users.
 
+<pre>
+</pre>
+
 ### Inspiration 
 Sustainability and AI are two of the most highly topical and discussed issues of our time. There are quite a few dangers lurking and the uncertainty towards the upcoming future can be felt. 
 But with new technology comes a lot of opportunities! By setting a good example, we want to be an inspiration for more great, social and sustainable projects.
 
+<pre>
+</pre>
 
 ## Our Pledge
 
@@ -35,9 +52,12 @@ identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
+<pre></pre>
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
+<pre>
+</pre>
 
 ## Our Standards
 
@@ -63,6 +83,8 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+<pre>
+</pre>
 
 ## Enforcement Responsibilities
 
@@ -76,6 +98,8 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
+<pre>
+</pre>
 
 ## Scope
 
@@ -85,6 +109,8 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
+<pre>
+</pre>
 
 ## Enforcement
 
@@ -96,11 +122,16 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
+<pre>
+</pre>
 
 ## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
+
+<pre>
+</pre>
 
 ### 1. Correction
 
@@ -110,6 +141,10 @@ unprofessional or unwelcome in the community.
 **Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
+
+
+<pre>
+</pre>
 
 ### 2. Warning
 
@@ -123,6 +158,9 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
+<pre>
+</pre>
+
 ### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including
@@ -134,6 +172,9 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
+<pre>
+</pre>
+
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
@@ -143,6 +184,9 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
+<pre>
+
+</pre>
 
 ## Attribution
 
