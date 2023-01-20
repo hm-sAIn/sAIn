@@ -1,3 +1,5 @@
+# ML-Models
+
 ###### MENU
 
 ###### > [Code of Conduct](CODE_OF_CONDUCT.md)
@@ -8,8 +10,6 @@
 
 <pre>
 </pre>
-
-# ML-Models
 
 sAIn uses several extern and in-house models to accomplish its intended functionality:
 <pre>

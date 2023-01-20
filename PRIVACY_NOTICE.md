@@ -1,3 +1,8 @@
+# Privacy Notice:
+<pre>
+
+
+</pre>
 ###### MENU
 
 ###### > [Code of Conduct](CODE_OF_CONDUCT.md)
@@ -5,11 +10,6 @@
 ###### > [Resource Consumption](RESOURCE_CONSUMPTION.md)
 ###### > [HOME](index.md)
 ###### > [Contacts](CONTACTS.md)
-
-<pre>
-</pre>
-
-# Privacy notice:
 
 <pre>
 </pre>

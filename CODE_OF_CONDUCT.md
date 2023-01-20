@@ -1,3 +1,8 @@
+# Contributor Covenant Code of Conduct
+<pre>
+
+
+</pre>
 ###### MENU
 
 ###### > [Privacy Notice](PRIVACY_NOTICE.md)
@@ -5,11 +10,6 @@
 ###### > [Resource Consumption](RESOURCE_CONSUMPTION.md)
 ###### > [HOME](index.md)
 ###### > [Contacts](CONTACTS.md)
-
-<pre>
-</pre>
-
-# Contributor Covenant Code of Conduct
 
 <pre>
 </pre>
