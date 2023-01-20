@@ -40,6 +40,8 @@ We use Tensorboard during training to measure the accuracy of our model.
 
 Below, we measured the power consumption during the execution of sAIn with unoptimized model (CPU Package Power in Watts measured with HWinfo):
 
+![Resource Consumption](resource_consumption.png)
+
 <pre>
 </pre>
 
