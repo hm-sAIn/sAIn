@@ -72,6 +72,8 @@ The areas of application are diverse. sAIn generates added value, whether in dai
 
 #### How it works
 
+![The App](app.png)
+
 The user sees himself on his device and gets incoming audio as text on his display. Recognized sign language gestures are translated and displayed to the signing person in text form.
 
 <pre>
