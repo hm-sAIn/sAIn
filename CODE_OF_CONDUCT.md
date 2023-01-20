@@ -2,6 +2,7 @@
 
 ###### > [Privacy Notice](PRIVACY_NOTICE.md)
 ###### > [Machine Learning Models](ML.md)
+###### > [Resource Consumption](RESOURCE_CONSUMPTION.md)
 ###### > [HOME](index.md)
 ###### > [Contacts](CONTACTS.md)
 

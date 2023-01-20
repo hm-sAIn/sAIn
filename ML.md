@@ -2,6 +2,7 @@
 
 ###### > [Code of Conduct](CODE_OF_CONDUCT.md)
 ###### > [Privacy Notice](PRIVACY_NOTICE.md)
+###### > [Resource Consumption](RESOURCE_CONSUMPTION.md)
 ###### > [HOME](index.md)
 ###### > [Contacts](CONTACTS.md)
 
@@ -13,8 +14,8 @@
 sAIn uses several extern and in-house models to accomplish its intended functionality:
 <pre>
 </pre>
-- Checkout the Model Card(s) for MediaPipe, our chosen model for body pose and hand gesture detection, here. (TODO)
-- Checkout the Model Card for whisper, our chosen model for Speech-to-Text conversion, here. (TODO)
+- Checkout the Model Card(s) for MediaPipe, our chosen model for body pose and hand gesture detection, [here](https://google.github.io/mediapipe/solutions/models.html).
+- Checkout the Model Card for whisper, our chosen model for Speech-to-Text conversion, [here](https://github.com/openai/whisper/blob/main/model-card.md).
 <pre>
 </pre>
 ##### sAIn Modelcard (translation)
@@ -56,7 +57,7 @@ Primary intended users: People with impaired hearing and speaking.
 ##### Factors
 Due to using MediaPipe for pose detection, the input format and most of its related factors like groups, instruments and environments are abstracted away from the neuronal network. This approach enables the Neuronal Network to be free from biases relating to these factors. However, in order for MediaPipe to work properly, video data that is being fed into the model needs to meet a certain quality standard, such as appropriate lighting and positioning of the camera. Thus, gestures signed in to the video feed need to be as clear as possible, in order to be detected properly.
 <pre></pre>
-Evaluation Factors: Problems arising from factors related to video input that might lead to biases in the usage of the model obviously already are eliminated by abstraction into body pose and key point data. For ensuring the necessary quality standard is met, please checkout these instructions (TODO), explaining what exactly to look for in order to maximize model accuracy.
+Evaluation Factors: Problems arising from factors related to video input that might lead to biases in the usage of the model obviously already are eliminated by abstraction into body pose and key point data. For ensuring the necessary quality standard is met, please be aware of using the app under optimal light conditions and position yourself so that your webcame captures your upper body. That ensures a good experience and helps to maximize our models accuracy.
 
 <pre>
 </pre>
@@ -81,4 +82,4 @@ Only gestures from the learned sign language dialect can be recognized
 
 ##### Feedback
 We’d love your feedback on the information presented in this card and/or the framework we’re exploring here. Please also share any unexpected results. Your feedback will be forwarded to model and service owners. 
-Click here (TODO) to provide feedback. For security or privacy related issues, please contact our head of ethics and privacy. (TODO: contact information)
+Click [here](https://github.com/hm-sAIn/sAIn/issues) to provide feedback. 

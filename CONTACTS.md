@@ -6,6 +6,7 @@
 ###### > [Code of Conduct](CODE_OF_CONDUCT.md)
 ###### > [Machine Learning Models](ML.md)
 ###### > [Privacy Notice](PRIVACY_NOTICE.md)
+###### > [Resource Consumption](RESOURCE_CONSUMPTION.md)
 ###### > [HOME](index.md)
 
 <pre>
