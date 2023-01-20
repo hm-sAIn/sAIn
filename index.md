@@ -12,6 +12,7 @@ Empowering face-to-face conversations between people who communicate through Ame
 ###### > [Code of Conduct](CODE_OF_CONDUCT.md)
 ###### > [Privacy Notice](PRIVACY_NOTICE.md)
 ###### > [Machine Learning Models](ML.md)
+###### > [Contacts](CONTACTS.md)
 
 <pre>
 </pre>
