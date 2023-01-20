@@ -81,5 +81,10 @@ Only gestures from the learned sign language dialect can be recognized
 </pre>
 
 ##### Feedback
-We’d love your feedback on the information presented in this card and/or the framework we’re exploring here. Please also share any unexpected results. Your feedback will be forwarded to model and service owners. 
+
+We’d love your feedback on the information presented in this card and/or the framework we’re exploring here. Please also share any unexpected results. Your feedback will be forwarded to model and service owners.
+
+<pre>
+</pre>
+
 Click [here](https://github.com/hm-sAIn/sAIn/issues) to provide feedback. 
