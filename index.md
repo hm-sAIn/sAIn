@@ -74,12 +74,26 @@ The areas of application are diverse. sAIn generates added value, whether in dai
 
 ![The App](app.png)
 
-The user sees himself on his device and gets incoming audio as text on his display. Recognized sign language gestures are translated and displayed to the signing person in text form.
+See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
+
+![Settings](settings.png)
+
+Customize your experience in the settings!
+
+![Information](information.png)
+
+Have any questions or feedback? Navigate to our information and contact section.
+
+![indicators](indicators.png)
+
+Keep track.
 
 <pre>
 </pre>
 
 #### Our vision
+
+![vision](vision.png)
 
 Enabling sAIn to overlay other applications is our next step, extending its application possibilities and increasing its generated value.
  
