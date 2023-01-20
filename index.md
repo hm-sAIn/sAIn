@@ -20,6 +20,9 @@ Empowering face-to-face conversations between people who communicate through Ame
 
 ![Architecture](architecture.png)
 
+<pre>
+</pre>
+
 ###### ANYTIME, ANYWHERE:
 Providing 24/7 access to fast, affordable ASL translation, our Application is ideal for a broad array of setting.
 
