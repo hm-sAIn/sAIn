@@ -5,6 +5,7 @@ Welcome to the sAIn project webpage! Check out our Repository [here](https://git
 
 
 </pre>
+---
 ###### MENU
 
 ###### > [Code of Conduct](CODE_OF_CONDUCT.md)
