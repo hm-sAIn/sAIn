@@ -26,6 +26,9 @@ Empowering face-to-face conversations between people who communicate through Ame
 <pre>
 </pre>
 
+---
+---
+
 #### Motivational background
 
 A communication barrier is created between signers and non-signers in everyday life and in audio media. This results in severely limited integration and inclusion opportunities to the disadvantage of the hearing impaired side. That is 466 000 000 people worldwide!
@@ -42,6 +45,9 @@ Both parties are confronted with a very upleasant problem for which only meager 
 
 <pre>
 </pre>
+
+---
+---
 
 #### What we offer
 
@@ -64,6 +70,9 @@ The areas of application are diverse. sAIn generates **added value**, whether in
 
 <pre>
 </pre>
+
+---
+---
 
 ###### > ANYTIME, ANYWHERE:
 Providing 24/7 access to fast, affordable ASL translation, our Application is ideal for a broad array of setting.
@@ -89,6 +98,9 @@ Available open-source, our Application is the affordable alternative to onsite i
 <pre>
 </pre>
 
+---
+---
+
 #### How it works
 
 <pre>
@@ -101,6 +113,7 @@ Available open-source, our Application is the affordable alternative to onsite i
 <pre>
 </pre>
 
+---
 ##### Customize your experience in the settings!
 
 <div style="text-align:left"><img src="settings.png" alt="Settings" width="60%"/></div>
@@ -108,6 +121,7 @@ Available open-source, our Application is the affordable alternative to onsite i
 <pre>
 </pre>
 
+---
 ##### Have any questions or feedback? Navigate to our information and contact section.
 
 <div style="text-align:left"><img src="information.png" alt="Information" width="60%"/></div>
@@ -115,12 +129,16 @@ Available open-source, our Application is the affordable alternative to onsite i
 <pre>
 </pre>
 
+---
 ##### Keep track.
 
 <div style="text-align:left"><img src="indicators.png" alt="Indicators" width="60%"/></div>
 
 <pre>
 </pre>
+
+---
+---
 
 #### Our vision
 
