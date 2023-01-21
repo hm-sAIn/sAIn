@@ -31,7 +31,13 @@ First and foremost, the following data from users is processed by sAIn:
 
 ### Processing
 sAIn further processes the user's moving image material on his device to so-called keypoints. From this point on, the data sAIn works with is considered anonymized and cannot be traced back to the original moving image material. 
-<pre></pre>
+
+<pre>
+</pre>
+
+---
+---
+
 ### Use
 sAIn only connects between the user and the communication partner if the latter has configured sAIn to do so (opt-in).
 
