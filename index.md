@@ -86,28 +86,28 @@ The areas of application are diverse. sAIn generates **added value**, whether in
 
 ###### See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
 
-<div style="text-align:center"><img src="app.png" alt="App" width="33%" class="center"/></div>
+<div style="text-align:center"><img src="app.png" alt="App" width="50%" class="center"/></div>
 
 <pre>
 </pre>
 
 ###### Customize your experience in the settings!
 
-<div style="text-align:center"><img src="settings.png" alt="Settings" width="33%" class="center"/></div>
+<div style="text-align:center"><img src="settings.png" alt="Settings" width="50%" class="center"/></div>
 
 <pre>
 </pre>
 
 ###### Have any questions or feedback? Navigate to our information and contact section.
 
-<div style="text-align:center"><img src="information.png" alt="Information" width="33%" class="center"/></div>
+<div style="text-align:center"><img src="information.png" alt="Information" width="50%" class="center"/></div>
 
 <pre>
 </pre>
 
 ###### Keep track.
 
-<div style="text-align:center"><img src="indicators.png" alt="Indicators" width="33%" class="center"/></div>
+<div style="text-align:center"><img src="indicators.png" alt="Indicators" width="50%" class="center"/></div>
 
 <pre>
 </pre>
