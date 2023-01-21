@@ -16,11 +16,6 @@ Welcome to the sAIn project webpage! Check out our Repository [here](https://git
 <pre>
 </pre>
 
-![Architecture](architecture.png)
-
-<pre>
-</pre>
-
 Empowering face-to-face conversations between people who communicate through American Sign Language (ASL) and those who speak English by harnessing the power of AI-driven machine translation technology we want everyone to feel included.
 
 
@@ -70,8 +65,15 @@ sAIn breaks down these barriers and promotes integration and inclusion of the he
 Through sAIn, conversations of sign language speakers and non-sign language speakers and the transmission of information in audio form to the hearing impaired are made possible by translating used language for the communication partner. 
 
 <pre></pre>
-This means: 
+
+###### This means: 
 Sign language or text is converted into spoken language and spoken language or audio is converted into text that can be read by the signer.
+
+![Architecture](architecture.png)
+
+<pre>
+</pre>
+
 
 <pre></pre>
 The areas of application are diverse. sAIn generates added value, whether in daily communication, professional development, health care or in the education of sign language speakers.

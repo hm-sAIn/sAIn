@@ -56,7 +56,7 @@ In the prototype phase, quantization methods are not yet used. However, since th
 <pre>
 </pre>
 
-#### CO₂ footprint, efficiency and emissions offsets.
+#### CO₂ footprint, efficiency and emissions offsets
 If training occurs in a data center, the training process is CO₂-neutral.
 
 <pre>
