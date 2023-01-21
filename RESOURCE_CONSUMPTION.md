@@ -18,6 +18,9 @@
 
 ### Direct resource consumption 
 
+---
+---
+
 In the prototype phase, sAIn was trained and evaluated on a system that was not optimized for machine learning. In addition, the model was trained and evaluated on only one CPU; there could be potential for optimization here if it is possible to train the neural network on hardware designed for this purpose. 
 
 <pre>
