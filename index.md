@@ -18,6 +18,10 @@ Welcome to the sAIn project webpage! Check out our Repository [here](https://git
 
 Empowering face-to-face conversations between people who communicate through American Sign Language (ASL) and those who speak English by harnessing the power of AI-driven machine translation technology we want everyone to feel included.
 
+<pre>
+</pre>
+
+<div style="text-align:center"><img src="happy.jpeg" alt="Happy people" width="70%" class="center"/></div>
 
 <pre>
 </pre>
