@@ -55,7 +55,7 @@ Through sAIn, conversations of sign language speakers and non-sign language spea
 ###### This means: 
 Sign language or text is converted into spoken language and spoken language or audio is converted into text that can be read by the signer.
 
-<div style="text-align:center"><img src="architecture.png" alt="Architecture" width="33%" class="center"/></div>
+<div style="text-align:center"><img src="architecture.png" alt="Architecture" width="50%" class="center"/></div>
 
 <pre>
 </pre>
@@ -94,33 +94,30 @@ Available open-source, our Application is the affordable alternative to onsite i
 <pre>
 </pre>
 
-<div style="text-align:center">
-See yourself on your device and get incoming audio as text on your display. 
-Recognized sign language gestures are translated and displayed to you in the according text form.
-</div>
+###### See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
 
-<div style="text-align:center"><img src="app.png" alt="App" width="50%" class="center"/></div>
+<div style="text-align:left"><img src="app.png" alt="App" width="60%"/></div>
 
 <pre>
 </pre>
 
 ###### Customize your experience in the settings!
 
-<div style="text-align:center"><img src="settings.png" alt="Settings" width="50%" class="center"/></div>
+<div style="text-align:left"><img src="settings.png" alt="Settings" width="60%"/></div>
 
 <pre>
 </pre>
 
 ###### Have any questions or feedback? Navigate to our information and contact section.
 
-<div style="text-align:center"><img src="information.png" alt="Information" width="50%" class="center"/></div>
+<div style="text-align:left"><img src="information.png" alt="Information" width="60%"/></div>
 
 <pre>
 </pre>
 
 ###### Keep track.
 
-<div style="text-align:center"><img src="indicators.png" alt="Indicators" width="50%" class="center"/></div>
+<div style="text-align:left"><img src="indicators.png" alt="Indicators" width="60%"/></div>
 
 <pre>
 </pre>
