@@ -86,7 +86,7 @@ The areas of application are diverse. sAIn generates **added value**, whether in
 
 ###### See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
 
-![The App](app.png)
+<img src="app.png" alt="App" width="250" class="center"/>
 
 <pre>
 </pre>
