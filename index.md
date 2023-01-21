@@ -65,25 +65,25 @@ The areas of application are diverse. sAIn generates **added value**, whether in
 <pre>
 </pre>
 
-###### ANYTIME, ANYWHERE:
+###### > ANYTIME, ANYWHERE:
 Providing 24/7 access to fast, affordable ASL translation, our Application is ideal for a broad array of setting.
 
 <pre>
 </pre>
 
-###### PRIVATE AND SECURE:
+###### > PRIVATE AND SECURE:
 Conversations are kept private with robust security features, including on-device processing.
 
 <pre>
 </pre>
 
-###### EASY TO USE:
+###### > EASY TO USE:
 Frustration-free setup means getting started is simple, intuitive, and requires no user training or specialized IT infrastructure.
 
 <pre>
 </pre>
 
-###### EXCEPTIONAL VALUE:
+###### > EXCEPTIONAL VALUE:
 Available open-source, our Application is the affordable alternative to onsite interpreters and video remote interpreting services.
 
 <pre>
