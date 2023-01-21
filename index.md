@@ -93,21 +93,21 @@ The areas of application are diverse. sAIn generates **added value**, whether in
 
 ###### Customize your experience in the settings!
 
-![Settings](settings.png)
+<img src="settings.png" alt="Settings" width="400" class="center"/>
 
 <pre>
 </pre>
 
 ###### Have any questions or feedback? Navigate to our information and contact section.
 
-![Information](information.png)
+<img src="information.png" alt="Information" width="400" class="center"/>
 
 <pre>
 </pre>
 
 ###### Keep track.
 
-![indicators](indicators.png)
+<img src="indicators.png" alt="Indicators" width="400" class="center"/>
 
 <pre>
 </pre>
