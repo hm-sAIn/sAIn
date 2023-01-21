@@ -25,8 +25,12 @@ Ideally, the model should be trained on a dedicated server with suitable hardwar
 </pre>
 
 #### Consideration of energy efficiency
+
 sAIn uses ready-made solutions from Google Mediapipe to convert the video input in a camera into a person unrelated format. This allows a much leaner neural network to be used on this abstracted data. 
-<pre></pre>
+
+<pre>
+</pre>
+
 With a smaller number of gestures and training data, the model is always trained from scratch. However, as soon as more gestures and data are available, the model is not always trained again, but refined and extended by transfer learning techniques, such as extension of the last layers for new gestures and refinement of the already learned weights.
 
 <pre>
@@ -38,7 +42,7 @@ We use Tensorboard during training to measure the accuracy of our model.
 <pre>
 </pre>
 
-Below, we measured the power consumption during the execution of sAIn with unoptimized model (CPU Package Power in Watts measured with HWinfo):
+###### Below, we measured the power consumption during the execution of sAIn with unoptimized model (CPU Package Power in Watts measured with HWinfo):
 
 ![Resource Consumption](resource_consumption.png)
 
@@ -68,6 +72,9 @@ We suspect that a majority of the emissions will occur at the end-user, since th
 </pre>
 
 ### Indirect resource consumption 
+
+<pre>
+</pre>
 
 #### Sustainable hardware cycle and data centers
 Since we plan to run our training process in a Google data center, we can refer to Google's data for this purpose. 
