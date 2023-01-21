@@ -1,16 +1,6 @@
 # sAIn
 
 Welcome to the sAIn project webpage! Check out our Repository [here](https://github.com/hm-sAIn/sAIn).
-
-<pre>
-</pre>
-
-![Architecture](architecture.png)
-
-<pre>
-</pre>
-
-Empowering face-to-face conversations between people who communicate through American Sign Language (ASL) and those who speak English by harnessing the power of AI-driven machine translation technology we want everyone to feel included.
 <pre>
 
 
@@ -22,6 +12,17 @@ Empowering face-to-face conversations between people who communicate through Ame
 ###### > [Machine Learning Models](ML.md)
 ###### > [Resource Consumption](RESOURCE_CONSUMPTION.md)
 ###### > [Contacts](CONTACTS.md)
+
+<pre>
+</pre>
+
+![Architecture](architecture.png)
+
+<pre>
+</pre>
+
+Empowering face-to-face conversations between people who communicate through American Sign Language (ASL) and those who speak English by harnessing the power of AI-driven machine translation technology we want everyone to feel included.
+
 
 <pre>
 </pre>
