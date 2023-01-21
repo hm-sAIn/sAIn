@@ -69,7 +69,7 @@ Through sAIn, conversations of sign language speakers and non-sign language spea
 ###### This means: 
 Sign language or text is converted into spoken language and spoken language or audio is converted into text that can be read by the signer.
 
-<img src="architecture.png" alt="Architecture" width="250" class="center"/>
+<img src="architecture.png" alt="Architecture" width="400" class="center"/>
 
 <pre>
 </pre>
@@ -86,7 +86,7 @@ The areas of application are diverse. sAIn generates **added value**, whether in
 
 ###### See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
 
-<img src="app.png" alt="App" width="250" class="center"/>
+<img src="app.png" alt="App" width="400" class="center"/>
 
 <pre>
 </pre>
