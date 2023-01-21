@@ -25,7 +25,7 @@
 ##### Transparency 
 We face fair competition and at the same time enable every user to inform himself about how our application works and thus to weigh the benefits and risks for himself, but also to praise and criticize. 
 We are transparent, act honestly and adhere to applicable social compliance regulations towards all stakeholders.
-
+---
 
 <pre>
 </pre>
@@ -33,6 +33,7 @@ We are transparent, act honestly and adhere to applicable social compliance regu
 ##### Humanity 
 Most AI systems connect human and machine. 
 We connect humanity and machine and make our best possible contribution to a harmonious society.
+---
 
 <pre>
 </pre>
@@ -41,6 +42,7 @@ We connect humanity and machine and make our best possible contribution to a har
 It is important to us that every human feels included and valued. 
 With our approach, we therefore want to break down the communication barrier between sign language speakers and non-sign language speakers as much as possible. 
 And not only that. With our paradigm of an iterative and continuous improvement process, we want to ensure constant added value in close contact with our users.
+---
 
 <pre>
 </pre>
@@ -48,6 +50,7 @@ And not only that. With our paradigm of an iterative and continuous improvement 
 ##### Inspiration 
 Sustainability and AI are two of the most highly topical and discussed issues of our time. There are quite a few dangers lurking and the uncertainty towards the upcoming future can be felt. 
 But with new technology comes a lot of opportunities! By setting a good example, we want to be an inspiration for more great, social and sustainable projects.
+---
 
 <pre>
 </pre>
