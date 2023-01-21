@@ -106,6 +106,8 @@ Available open-source, our Application is the affordable alternative to onsite i
 
 #### How it works
 
+---
+
 <pre>
 </pre>
 
