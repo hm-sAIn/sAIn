@@ -84,7 +84,9 @@ The areas of application are diverse. sAIn generates **added value**, whether in
 <pre>
 </pre>
 
-###### See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
+<div style="text-align:center">
+##### See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
+</div>
 
 <div style="text-align:center"><img src="app.png" alt="App" width="50%" class="center"/></div>
 
