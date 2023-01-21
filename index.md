@@ -26,24 +26,6 @@ Empowering face-to-face conversations between people who communicate through Ame
 <pre>
 </pre>
 
-###### ANYTIME, ANYWHERE:
-Providing 24/7 access to fast, affordable ASL translation, our Application is ideal for a broad array of setting.
-
-<pre></pre>
-###### PRIVATE AND SECURE:
-Conversations are kept private with robust security features, including on-device processing.
-
-<pre></pre>
-###### EASY TO USE:
-Frustration-free setup means getting started is simple, intuitive, and requires no user training or specialized IT infrastructure.
-
-<pre></pre>
-###### EXCEPTIONAL VALUE:
-Available open-source, our Application is the affordable alternative to onsite interpreters and video remote interpreting services.
-
-<pre>
-</pre>
-
 #### Motivational background
 
 A communication barrier is created between signers and non-signers in everyday life and in audio media. This results in severely limited integration and inclusion opportunities to the disadvantage of the hearing impaired side. That is 466 000 000 people worldwide!
@@ -79,6 +61,30 @@ Sign language or text is converted into spoken language and spoken language or a
 </pre>
 
 The areas of application are diverse. sAIn generates **added value**, whether in **daily communication**, **professional development**, **health care** or in the **education** of sign language speakers.
+
+<pre>
+</pre>
+
+###### ANYTIME, ANYWHERE:
+Providing 24/7 access to fast, affordable ASL translation, our Application is ideal for a broad array of setting.
+
+<pre>
+</pre>
+
+###### PRIVATE AND SECURE:
+Conversations are kept private with robust security features, including on-device processing.
+
+<pre>
+</pre>
+
+###### EASY TO USE:
+Frustration-free setup means getting started is simple, intuitive, and requires no user training or specialized IT infrastructure.
+
+<pre>
+</pre>
+
+###### EXCEPTIONAL VALUE:
+Available open-source, our Application is the affordable alternative to onsite interpreters and video remote interpreting services.
 
 <pre>
 </pre>
