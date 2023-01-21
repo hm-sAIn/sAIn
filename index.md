@@ -69,11 +69,10 @@ Through sAIn, conversations of sign language speakers and non-sign language spea
 ###### This means: 
 Sign language or text is converted into spoken language and spoken language or audio is converted into text that can be read by the signer.
 
-![Architecture](architecture.png)
+<img src="architecture.png" alt="Architecture" width="200"/>
 
 <pre>
 </pre>
-
 
 The areas of application are diverse. sAIn generates **added value**, whether in **daily communication**, **professional development**, **health care** or in the **education** of sign language speakers.
 
