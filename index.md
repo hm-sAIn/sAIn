@@ -75,34 +75,45 @@ Sign language or text is converted into spoken language and spoken language or a
 </pre>
 
 
-<pre></pre>
-The areas of application are diverse. sAIn generates added value, whether in daily communication, professional development, health care or in the education of sign language speakers.
+The areas of application are diverse. sAIn generates **added value**, whether in **daily communication**, **professional development**, **health care** or in the **education** of sign language speakers.
 
 <pre>
 </pre>
 
 #### How it works
 
+<pre>
+</pre>
+
+###### See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
+
 ![The App](app.png)
 
-See yourself on your device and get incoming audio as text on your display. Recognized sign language gestures are translated and displayed to you in the according text form.
+<pre>
+</pre>
+
+###### Customize your experience in the settings!
 
 ![Settings](settings.png)
 
-Customize your experience in the settings!
+<pre>
+</pre>
+
+###### Have any questions or feedback? Navigate to our information and contact section.
 
 ![Information](information.png)
 
-Have any questions or feedback? Navigate to our information and contact section.
+<pre>
+</pre>
+
+###### Keep track.
 
 ![indicators](indicators.png)
-
-Keep track.
 
 <pre>
 </pre>
 
 #### Our vision
 
-Enabling sAIn to overlay other applications is our next step, extending its application possibilities and increasing its generated value.
+**Enabling sAIn to overlay other applications is our next step, extending its application possibilities and increasing its generated value.**
  

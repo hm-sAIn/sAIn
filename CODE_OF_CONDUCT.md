@@ -14,8 +14,12 @@
 <pre>
 </pre>
 
-## Our values:
-### Transparency 
+## Our values
+
+<pre>
+</pre>
+
+##### Transparency 
 We face fair competition and at the same time enable every user to inform himself about how our application works and thus to weigh the benefits and risks for himself, but also to praise and criticize. 
 We are transparent, act honestly and adhere to applicable social compliance regulations towards all stakeholders.
 
@@ -23,14 +27,14 @@ We are transparent, act honestly and adhere to applicable social compliance regu
 <pre>
 </pre>
 
-### Humanity 
+##### Humanity 
 Most AI systems connect human and machine. 
 We connect humanity and machine and make our best possible contribution to a harmonious society.
 
 <pre>
 </pre>
 
-### Integration and inclusion
+##### Integration and inclusion
 It is important to us that every human feels included and valued. 
 With our approach, we therefore want to break down the communication barrier between sign language speakers and non-sign language speakers as much as possible. 
 And not only that. With our paradigm of an iterative and continuous improvement process, we want to ensure constant added value in close contact with our users.
@@ -38,7 +42,7 @@ And not only that. With our paradigm of an iterative and continuous improvement 
 <pre>
 </pre>
 
-### Inspiration 
+##### Inspiration 
 Sustainability and AI are two of the most highly topical and discussed issues of our time. There are quite a few dangers lurking and the uncertainty towards the upcoming future can be felt. 
 But with new technology comes a lot of opportunities! By setting a good example, we want to be an inspiration for more great, social and sustainable projects.
 
@@ -54,7 +58,9 @@ identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
-<pre></pre>
+<pre>
+</pre>
+
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
@@ -135,7 +141,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 <pre>
 </pre>
 
-### 1. Correction
+##### 1. Correction
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
@@ -148,7 +154,7 @@ behavior was inappropriate. A public apology may be requested.
 <pre>
 </pre>
 
-### 2. Warning
+##### 2. Warning
 
 **Community Impact**: A violation through a single incident or series
 of actions.
@@ -163,7 +169,7 @@ permanent ban.
 <pre>
 </pre>
 
-### 3. Temporary Ban
+##### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
@@ -177,7 +183,7 @@ Violating these terms may lead to a permanent ban.
 <pre>
 </pre>
 
-### 4. Permanent Ban
+##### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
@@ -190,7 +196,7 @@ the community.
 
 </pre>
 
-## Attribution
+##### Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
