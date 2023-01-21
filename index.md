@@ -16,6 +16,9 @@ Welcome to the sAIn project webpage! Check out our Repository [here](https://git
 <pre>
 </pre>
 
+---
+---
+
 Empowering face-to-face conversations between people who communicate through American Sign Language (ASL) and those who speak English by harnessing the power of AI-driven machine translation technology we want everyone to feel included.
 
 <pre>

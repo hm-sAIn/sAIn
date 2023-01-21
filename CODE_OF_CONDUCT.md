@@ -14,6 +14,9 @@
 <pre>
 </pre>
 
+---
+---
+
 ## Our values
 
 <pre>
@@ -49,6 +52,9 @@ But with new technology comes a lot of opportunities! By setting a good example,
 <pre>
 </pre>
 
+---
+---
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -66,6 +72,9 @@ diverse, inclusive, and healthy community.
 
 <pre>
 </pre>
+
+---
+---
 
 ## Our Standards
 
@@ -94,6 +103,9 @@ Examples of unacceptable behavior include:
 <pre>
 </pre>
 
+---
+---
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
@@ -109,6 +121,9 @@ decisions when appropriate.
 <pre>
 </pre>
 
+---
+---
+
 ## Scope
 
 This Code of Conduct applies within all community spaces, and also applies when
@@ -119,6 +134,9 @@ representative at an online or offline event.
 
 <pre>
 </pre>
+
+---
+---
 
 ## Enforcement
 
@@ -132,6 +150,9 @@ reporter of any incident.
 
 <pre>
 </pre>
+
+---
+---
 
 ## Enforcement Guidelines
 
@@ -195,6 +216,9 @@ the community.
 <pre>
 
 </pre>
+
+---
+---
 
 ##### Attribution
 
