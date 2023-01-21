@@ -69,7 +69,7 @@ Through sAIn, conversations of sign language speakers and non-sign language spea
 ###### This means: 
 Sign language or text is converted into spoken language and spoken language or audio is converted into text that can be read by the signer.
 
-<img src="architecture.png" alt="Architecture" width="150"/>
+<img src="architecture.png" alt="Architecture" width="250" class="center"/>
 
 <pre>
 </pre>
