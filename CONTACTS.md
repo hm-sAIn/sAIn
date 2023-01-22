@@ -21,4 +21,4 @@
 ### ANY QUESTIONS? 
 <pre>
 </pre>
-For further information or any other reason you might want to contact us, please visit our [issue site](https://github.com/hm-sAIn/sAIn/issues).
+### For further information or any other reason you might want to contact us, please visit our [issue site](https://github.com/hm-sAIn/sAIn/issues).
